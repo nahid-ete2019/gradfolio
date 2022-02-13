@@ -19,7 +19,7 @@ paginate_path: /blog/page:num/
 # Social media links in footer
 facebook: "#"
 twitter: "#"
-linkedin: "www.linkedin.com/in/mdnahid"
+linkedin: "mdnahid"
 github: "#"
 researchgate: "#"
 orcid: "#"
