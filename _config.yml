@@ -1,7 +1,7 @@
 ### your site title here
 
 title: Md. Nahid Hasan
-description: DevOps Engineer | affiliations | motto
+description: DevOps Engineer | RHCSA / RHCE / Ansible / AWS / CKA / Docker / CICD | motto
 
 baseurl: /portfolio #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
@@ -19,7 +19,7 @@ paginate_path: /blog/page:num/
 # Social media links in footer
 facebook: "#"
 twitter: "#"
-linkedin: "#"
+linkedin: "www.linkedin.com/in/mdnahid"
 github: "#"
 researchgate: "#"
 orcid: "#"
