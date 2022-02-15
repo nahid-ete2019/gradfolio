@@ -4,7 +4,7 @@ title: Md. Nahid Hasan
 description: DevOps Engineer | RHCSA / RHCE / Ansible / AWS / CKA / Docker / CICD | motto
 
 baseurl: /portfolio #name of GitHub repository
-url: "/portfolio" #custom url to be used instead of GitHub repository
+url: "/" #custom url to be used instead of GitHub repository
 email: #
 
 
